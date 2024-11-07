@@ -4,7 +4,7 @@ The Resume Screening Assistance Tool improves HR efficiency by streamlining the 
 
 # Resume Screening Assistance Tool
 
-![Project Logo](https://via.placeholder.com/150)  <!-- Replace with your project logo if available -->
+
 
 ## Overview
 The Resume Screening Assistance Tool is a powerful web application designed to enhance the efficiency of the resume screening process for HR professionals. By leveraging advanced natural language processing (NLP) techniques, this tool simplifies the recruitment workflow, enabling organizations to quickly identify the best-fit candidates.
