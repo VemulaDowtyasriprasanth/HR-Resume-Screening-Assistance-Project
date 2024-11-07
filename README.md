@@ -2,6 +2,9 @@
 The Resume Screening Assistance Tool improves HR efficiency by streamlining the resume review process. It automates analysis using NLP to match candidate qualifications with job descriptions, saving time and providing insights. With PDF support and a user-friendly interface, it scales with growth, enhancing recruitment quality and reducing time-to- hire 
 
 
+# Resume Screening Assistance Tool
+
+![Project Logo](https://via.placeholder.com/150)  <!-- Replace with your project logo if available -->
 
 ## Overview
 The Resume Screening Assistance Tool is a powerful web application designed to enhance the efficiency of the resume screening process for HR professionals. By leveraging advanced natural language processing (NLP) techniques, this tool simplifies the recruitment workflow, enabling organizations to quickly identify the best-fit candidates.
@@ -66,12 +69,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or inquiries, please reach out to:
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
-
----
-
-**Demo Video**: Check out our [YouTube demo](https://youtube.com) to see the tool in action!
-
-**Screenshots**: ![Screenshot 1](https://via.placeholder.com/600x400) <!-- Replace with actual screenshots -->
+- **Prasanth Vemula** - [prasanthvemula1729@gmail.com](prasanthvemula1729@gmail.com)
+- GitHub: [VemulaDowtyasriprasanth](https://github.com/VemulaDowtyasriprasanth)
 
