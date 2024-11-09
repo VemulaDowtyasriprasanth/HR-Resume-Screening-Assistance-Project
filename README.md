@@ -22,8 +22,12 @@ The architecture includes the following components:
 2. **Backend Processing (LangChain, SentenceTransformer)**: Utilizes NLP models to generate embeddings from resumes and job descriptions.
 3. **Vector Database (Pinecone)**: Stores embeddings and allows similarity-based retrieval, facilitating candidate matching.
 
-![Professional Architecture Overview](./professional.jpg) <!-- Main architecture diagram -->
-![Minimalistic Flow Diagram](./professional2.jpg) <!-- Workflow diagram -->
+#### Diagrams
+
+![System Architecture](architecture.png) <!-- Primary architecture diagram -->
+![Professional Architecture Overview](professional.jpg) <!-- Main architecture overview -->
+![Minimalistic Flow Diagram](professional2.jpg) <!-- Workflow diagram -->
+![Detailed Workflow](Flow%20image.png) <!-- Recently created detailed workflow diagram -->
 
 ## Technology Stack
 
