@@ -26,8 +26,9 @@ The architecture includes the following components:
 
 
 ![Professional Architecture Overview](professional.jpg) <!-- Main architecture overview -->
-![Minimalistic Flow Diagram](professional2.jpg) <!-- Workflow diagram -->
 ![Detailed Workflow](Flow%20image.png) <!-- Recently created detailed workflow diagram -->
+![Minimalistic Flow Diagram](professional2.jpg) <!-- Workflow diagram -->
+
 
 ## Technology Stack
 
