@@ -1,3 +1,4 @@
+
 # HR Resume Screening Assistance Tool
 
 ## Project Overview
@@ -43,57 +44,69 @@ Ensure Python 3.x is installed on your machine.
    ```bash
    git clone <repository-url>
    cd HR-Resume-Screening-Assistance-Project
-Install the required dependencies.
+   ```
 
-bash
-Copy code
-pip install -r requirements.txt
-Configure environment variables:
+2. Install the required dependencies.
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Copy .env.example to .env.
-Update Pinecone API details and other necessary configurations in the .env file.
-Run the Streamlit application:
+3. Configure environment variables:
+   - Copy `.env.example` to `.env`.
+   - Update Pinecone API details and other necessary configurations in the `.env` file.
 
-bash
-Copy code
-streamlit run app.py
-Usage Instructions
-Open the Streamlit application in a browser.
-Input the job description in the provided text area.
-Specify the number of resumes to return in the results.
-Upload resume PDFs by selecting files.
-Click "Help me with the analysis" to receive processed results and insights.
-Configuration and Environment Variables
-Ensure the following variables are set in your .env file:
+4. Run the Streamlit application:
+   ```bash
+   streamlit run app.py
+   ```
 
-PINECONE_API_KEY: API key for Pinecone.
-PINECONE_ENVIRONMENT: Pinecone environment setting.
-PINECONE_INDEX_NAME: Index name for the vector database.
-Testing Guidelines
-Test the application by uploading a sample set of resumes and providing various job descriptions.
-Ensure Pinecone is configured correctly to retrieve the most relevant resumes.
-Further Enhancements
-Multi-format Support: Expand support for other resume formats (e.g., Word documents).
-Advanced NLP Models: Incorporate more sophisticated NLP models or fine-tune embeddings for better accuracy.
-Contributing
+## Usage Instructions
+
+1. Open the Streamlit application in a browser.
+2. Input the job description in the provided text area.
+3. Specify the number of resumes to return in the results.
+4. Upload resume PDFs by selecting files.
+5. Click "Help me with the analysis" to receive processed results and insights.
+
+## Configuration and Environment Variables
+
+Ensure the following variables are set in your `.env` file:
+
+- **PINECONE_API_KEY**: API key for Pinecone.
+- **PINECONE_ENVIRONMENT**: Pinecone environment setting.
+- **PINECONE_INDEX_NAME**: Index name for the vector database.
+
+## Testing Guidelines
+
+- Test the application by uploading a sample set of resumes and providing various job descriptions.
+- Ensure Pinecone is configured correctly to retrieve the most relevant resumes.
+
+## Further Enhancements
+
+- **Multi-format Support**: Expand support for other resume formats (e.g., Word documents).
+- **Advanced NLP Models**: Incorporate more sophisticated NLP models or fine-tune embeddings for better accuracy.
+
+## Contributing
+
 We welcome contributions! If you have suggestions for improvements or new features, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
 
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a Pull Request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
 
-Acknowledgements
-Streamlit for the amazing framework.
-OpenAI for the NLP models.
-Any other contributors or resources.
-Contact
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [Streamlit](https://streamlit.io/) for the amazing framework.
+- [OpenAI](https://openai.com/) for the NLP models.
+- Any other contributors or resources.
+
+## Contact
+
 For questions or inquiries, please reach out to:
-
-Prasanth Vemula - prasanthvemula1729@gmail.com
-GitHub: VemulaDowtyasriprasanth
-css
-Copy code
+- **Prasanth Vemula** - [prasanthvemula1729@gmail.com](mailto:prasanthvemula1729@gmail.com)
+- GitHub: [VemulaDowtyasriprasanth](https://github.com/VemulaDowtyasriprasanth)
